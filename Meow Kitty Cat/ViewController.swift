@@ -49,13 +49,10 @@ class ViewController: UIViewController {
         // delayed action to hide label in 1.5 seconds
         Timer.scheduledTimer(timeInterval: 1.5, target: self, selector: #selector(hideLabel), userInfo: nil, repeats: false)
         
-        
-        
     }
     // hides label
     @objc func hideLabel(){
         label.isHidden = true
     }
-    
 }
 
