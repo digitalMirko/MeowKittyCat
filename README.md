@@ -1,7 +1,7 @@
 # MeowKittyCat
 Swift - Kitty Cat Meow Demo App
 
-App created in Xcode 10 (10A255) using Swift and tested on a iPhone X Emulator
+App created in Xcode 10 (10A255) using Swift 4.2 and tested on a iPhone X Emulator
 
 To use this app the user just clicks the 'Meow Kitty Cat App' icon and they are taken right into the app. 
 They are greeted with kitty background graphic and a large kitty cat graphic at the bottom graphic.
